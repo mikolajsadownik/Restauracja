@@ -1,5 +1,5 @@
 # Restauracja
- Projekt z przedmiotu na Polsko-Japońskiej Akademii Technik Komputerowych o nazwie - programowanie obiektowe i GUI.
+ Projekt realizowany w ramach przedmiotu na Polsko-Japońskiej Akademii Technik Komputerowych o nazwie - programowanie obiektowe i GUI.
  # Projekt wykorzystuje między innymi:
  •Dziedziczenie
  •Kolekcje 
