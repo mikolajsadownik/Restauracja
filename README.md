@@ -4,7 +4,6 @@
  •Dziedziczenie
  •Kolekcje 
  •Interfejsy 
- •Klasy abstrakcyjne 
  •Lambda-wyrażenia  
  •Strumienie 
  # Szczegółowy opis projektu
